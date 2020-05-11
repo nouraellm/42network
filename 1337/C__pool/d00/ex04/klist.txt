@@ -1,0 +1,8 @@
+Credentials cache: API:1663
+        Principal: mochegri@1337.MA
+
+  Issued                Expires               Principal
+Jul  4 18:10:37 2019  Jul  5 04:10:30 2019  krbtgt/1337.MA@1337.MA
+Jul  4 18:10:39 2019  Jul  5 04:10:30 2019  ldap/ldap.1337.ma@1337.MA
+Jul  4 18:10:39 2019  Jul  5 04:10:30 2019  HTTP/student-storage.1337.ma@1337.MA
+Jul  4 18:16:31 2019  Jul  5 04:10:30 2019  host/vogsphere.1337.ma@1337.MA
